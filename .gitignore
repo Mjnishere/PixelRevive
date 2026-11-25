@@ -8,6 +8,9 @@ I10_DIV2K/
 *.zip
 *.part
 
+# ── Demo pack (copied to the laptop / Drive separately, contains model weights) ──
+demo_pack/
+
 # ── Experiment tracking ──
 wandb/
 
